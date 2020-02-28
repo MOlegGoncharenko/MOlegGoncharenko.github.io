@@ -100,7 +100,7 @@ footer {
 	height: 385px;
 	display: block;
 	margin-top: 50px;
-	padding-top: 180px;
+	padding-top: 170px;
 	font-size: 230%;
 }
 .footer_text1 {
@@ -112,7 +112,7 @@ footer {
 .footer_text2 {
 	display: block;
 	color: #fff;
-	padding-top: 80px;
+	padding-top: 70px;
 	text-align: center;
 }
 .footer_text1 > a,
